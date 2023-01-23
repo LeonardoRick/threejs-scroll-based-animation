@@ -1,6 +1,9 @@
 # Three.js Journey
 
+This project exemplify some Threejs possibilities including how to animate things on scroll using Three.js and gsap
+
 ## Setup
+
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 

@@ -1,11 +1,7 @@
 # Three.js Journey
 https://user-images.githubusercontent.com/17517057/214146858-028ae8dc-c8cd-4d55-b680-22c06beb5ada.mp4
 
-This project exemplify some Threej
-
-
-
-s possibilities including how to animate things on scroll using Three.js and gsap
+This project exemplify some Threejs possibilities including how to animate things on scroll using Three.js and gsap
 
 ## Setup
 
